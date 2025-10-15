@@ -1,0 +1,13 @@
+PROJECT STRUCTURE
+
+src
+- app
+- components
+    - ui
+- hooks (useLocalStorage and useWindowEvent)
+- lib (Their own custom code)
+- payload (framework specific)
+- scripts 
+- server 
+
+ROOT LEVEL (configuration/settings stuffs - Put it root level)
